@@ -3,7 +3,7 @@
 ## I'm Web developer, and tech enthusiast!!
 
 ![age](https://img.shields.io/badge/age-21-blue)
-![focus](https://img.shields.io/badge/focus-MERN STACK-brightgreen)
+![focus](https://img.shields.io/badge/focus-MERN-STACK-brightgreen)
 ![focus](https://img.shields.io/badge/focus-Robotics-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
 
