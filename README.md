@@ -31,14 +31,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/bidyasagar22" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="bidyasagar hazarika" height="30" width="30" /></a>
-    <a href="https://instagram.com/bidyasagar23" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="bidyasagar23" height="30" width="30" /></a>
-</p>
+<p><a href="#">bidyasagarhazarika@gmail.com</a></p>
+
 
 
 ## Technologies
