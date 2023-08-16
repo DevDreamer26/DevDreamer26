@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Bidyasagar Hazarika</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+### Hi there, I'm Bidyasagar - aka <a href="https://github.com/DevDreamer26">DevDreamer26</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devdreamer26&label=Profile%20views&color=0e75b6&style=flat" alt="devdreamer26" /> </p>
+## I'm Web developer, and tech enthusiast!!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdreamer26" alt="devdreamer26" /></a> </p>
+![age](https://img.shields.io/badge/age-21-blue)
+![focus](https://img.shields.io/badge/focus-MERN STACK-brightgreen)
+![focus](https://img.shields.io/badge/focus-Robotics-brightgreen)
+![living](https://img.shields.io/badge/living-Assam-3c9)
 
-- 🌱 I’m currently learning **MERN STACK**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **bidyasagarhazarika@gmail.com**
-
-- ⚡ Fun fact **No fun fact**
+- An Open source and coding enthusiast
+- Interested in  Web Dev
+- Pursuing B.Tech from Assam Engineering College 
+- Passionate about building and developing new things
+- Currently learning everything
+- Looking to collaborate with other content creators
+- 2023 Goals: Delve more into Web3
+- Fun fact: I love to play guitar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
