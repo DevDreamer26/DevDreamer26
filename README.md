@@ -1,11 +1,13 @@
-### Hi there, I'm Bidyasagar - aka <a href="https://github.com/DevDreamer26">DevDreamer26</a>
+<h1 align="center">Hi 👋, I'm Bidyasagar Hazarika</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
-## I'm a Web developer, and tech enthusiast!!
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-MERN-brightgreen)
 ![focus](https://img.shields.io/badge/focus-Robotics-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devdreamer26&label=Profile%20views&color=0e75b6&style=flat" alt="devdreamer26" /> </p>
+
 
 - A coding enthusiast
 - Interested in Web Dev
