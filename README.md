@@ -13,10 +13,8 @@
 - Interested in Web Dev
 - Pursuing B.Tech from Assam Engineering College
 - Passionate about building and developing new things
-- Currently learning everything
-- Looking to collaborate with other content creators
-- 2023 Goals: Delve more into Web3
-- Fun fact: I love to play guitar
+- Looking to collaborate with other developers
+- Fact: I love to play guitar
 
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevDreamer26&theme=dracula&row=1&margin-w=15" alt="DevDreamer26" /></a> </p>
