@@ -31,7 +31,6 @@
 <h3 align="left">Connect with me:</h3>
 <p><a href="#">bidyasagarhazarika@gmail.com</a></p>
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/DevDreamer26/DevDreamer26/output/github-snake.svg)
 
 
 ## Technologies
