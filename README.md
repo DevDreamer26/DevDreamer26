@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bidyasagar Hazarika</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 
-![age](https://img.shields.io/badge/age-21-blue)
-![focus](https://img.shields.io/badge/focus-MERN-brightgreen)
-![focus](https://img.shields.io/badge/focus-Robotics-brightgreen)
+![age](https://img.shields.io/badge/age-22-blue)
+![focus](https://img.shields.io/badge/focus-Development-brightgreen)
+![focus](https://img.shields.io/badge/focus-Electronics-brightgreen)
 ![living](https://img.shields.io/badge/living-Assam-3c9)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdreamer26&label=Profile%20views&color=0e75b6&style=flat" alt="devdreamer26" /> </p>
 
 
 - A coding enthusiast
-- Interested in Web Dev
+- Interested in Software Development
 - Pursuing B.Tech from Assam Engineering College
 - Passionate about building and developing new things
 - Looking to collaborate with other developers
