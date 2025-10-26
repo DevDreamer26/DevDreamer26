@@ -3,17 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdreamer26&label=Profile%20views&color=0e75b6&style=flat" alt="devdreamer26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdreamer26" alt="devdreamer26" /></a> </p>
-
-- 🔭 I’m currently working on [Cybersecurity/Vulnerability analysis](https://cysoc-lab.github.io/)
 
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://bidyasagar.netlify.app/](https://bidyasagar.netlify.app/)
 
 - 📫 How to reach me **bidyasagarhazarika@gmail.com**
-
-- 📄 Know about my experiences [https://bidyasagar.tiiny.site/](https://bidyasagar.tiiny.site/)
 
 - ⚡ Fun fact **I think i am funny**
 
