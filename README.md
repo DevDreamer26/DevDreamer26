@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://bidyasagar.netlify.app/](https://bidyasagar.netlify.app/)
-
 - 📫 How to reach me **bidyasagarhazarika@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
