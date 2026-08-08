@@ -5,13 +5,13 @@
 </p>
 
 ### 👨‍💻 About Me
-Final-year **ECE** student with a passion for building scalable software applications. 
+I love probability, frequency, intervals and syntax.
 
 
-- 🌱 **Learning:**  **Python**
+- 🌱 **Learning:**  **Python and Data Science**
 -  🎸 **Outside of coding:** You’ll probably find me playing my guitar.
 - 💬 **Ask me about:** Python, React, IoT, or why I prefer plain CSS for clean code.
-- ⚡ **Fun fact:** I think I'm funny (my compiler disagrees).
+- ⚡ **Fun fact:** Trying to improvise over the pentatonic scale while remembering that beautiful is better than ugly 🎩
 
 ---
 
